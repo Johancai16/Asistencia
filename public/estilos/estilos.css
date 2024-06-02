@@ -1,0 +1,102 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+ 
+font-family:cursive;
+background: rgb(248, 249, 249);
+background-image: url(¨public/inicio/img/wave.png¨);
+
+
+}
+h1{
+    text-align: center;
+    padding: 20px;
+    font-size: 40px;
+    color: rgb(56, 56, 56);
+}
+
+#fecha{
+    text-align: center;
+    color: rgb(148, 148, 148);
+    font-weight: normal;
+    font-size: 30px;
+}
+.container{
+    width: 600px ;
+    height: 500px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3); 
+    backdrop-filter: blur(10px);
+    padding: 20px;
+    margin: auto;
+    margin-top: 20px;
+    border-radius: 6%;
+    box-shadow:  0 4px 8px rgba(0, 0, 0, 0.3);
+}
+.acceso{
+      background-color: #61c6dd; 
+      border: none;
+      color: white;
+      padding: 15px 32px;
+      text-align: center;
+      text-decoration: none;
+      display: inline-block;
+      font-size: 16px;
+      margin: 4px 2px;
+      cursor: pointer;
+      border-radius: 12px;
+      transition: background-color 0.3s ease;
+}
+.cedula{
+    text-align: center;
+    font-size: 45px;
+    margin-bottom: 20px;
+    padding: 8%;
+   
+
+}
+
+input{
+    width: 100%;
+    padding: 20px;
+    outline: none;
+}
+
+.botones{
+    display: flex;
+    margin-top: 6%;
+    
+   
+}
+.entrada{
+    background-color: #3413ee;
+    color: #ffffff;
+    padding: 20px 30px;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    width: 50%;
+    text-decoration: none;
+    text-align: center;
+    margin: 0.5%;
+
+}
+.salida{
+    background-color: #ff0000;
+    color: #ffffff;
+    padding: 20px 30px;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    width: 50%;
+    text-decoration: none;
+    text-align: center;
+    margin: 0.5%;
+    
+}
