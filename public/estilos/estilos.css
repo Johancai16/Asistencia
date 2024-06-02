@@ -6,8 +6,13 @@
 body{
  
 font-family:cursive;
-background: rgb(248, 249, 249);
-background-image: url(¨public/inicio/img/wave.png¨);
+/**background: rgb(248, 249, 249);*/
+background-image: url('https://img.freepik.com/foto-gratis/fondo-pantalla-varios-circulos-transparentes-pequeno_58702-7140.jpg?t=st=1717291566~exp=1717295166~hmac=ce9c8c43d4d5c7a4edc266f15f4109f27a11f952ea4f7f786cd4eb417a6b6885&w=996');
+background-size:100%;
+background-repeat: no-repeat;
+background-position: center;
+height: 100vh;
+margin: 0;
 
 
 }
