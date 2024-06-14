@@ -14,13 +14,14 @@
     <h2 id="fecha"></h2>
     <div class="container">
         <a class="acceso" href="vista/login/login.php">Ingresar a la plataforma</a>
-        <p class="cedula">Ingrese su Cédula</p>
+        <p class="cedula">Ingrese su cedula</p>
         <form action="" class=¨Texto¨>
             <input type="text" placeholder="Cédula del Estudiante" name="txtcedula" >
         
             <div class="botones">
                 <a class="entrada" href="">ENTRADA</a>
                 <a class="salida" href="">SALIDA</a>
+                
             </div>
             
         </form>
