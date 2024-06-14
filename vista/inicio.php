@@ -42,12 +42,7 @@ if (empty($_SESSION['nombre']) and empty($_SESSION['apellido'])) {
     <table class="table table-bordered table-hover col-12" id="example">
         <thead>
             <tr>
-                <th scope="col">ID</th>
-                <th scope="col">ESTUDIANTE</th>
-                <th scope="col">CEDULA</th>
-                <th scope="col">ESCUELA</th>
-                <th scope="col">ENTRADA</th>
-                <th scope="col">SALIDA</th>
+              
                 <th></th>
             </tr>
         </thead>
